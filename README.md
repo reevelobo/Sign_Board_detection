@@ -41,3 +41,4 @@ batch_size_val = 50  <br />
 steps_per_epoch_val= 250 <br />
 epochs_vl =30 <br />
 
+![detection_p3](https://user-images.githubusercontent.com/41796498/140182757-860d46aa-e2c3-4c09-8841-7dc5f47676eb.png)
